@@ -1,4 +1,5 @@
 baseURL = "http://rainaldi.dev/"
 languageCode = "en-us"
 title = "Rainaldi.dev"
-theme = "hugo-PaperMod"
+theme = "TopHat"
+paginate = 5
