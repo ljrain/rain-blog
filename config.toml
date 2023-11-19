@@ -1,7 +1,7 @@
 baseURL = "http://rainaldi.dev/"
 languageCode = "en-us"
 title = "Rainaldi.dev"
-theme = "TopHat"
+theme = "tophat"
 paginate = 5
 
 [params]
